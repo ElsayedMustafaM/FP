@@ -1,6 +1,0 @@
-C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\bin\Debug\declaritve.exe.config
-C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\bin\Debug\declaritve.exe
-C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\bin\Debug\declaritve.pdb
-C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\obj\Debug\declaritve.csproj.CoreCompileInputs.cache
-C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\obj\Debug\declaritve.exe
-C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\obj\Debug\declaritve.pdb
