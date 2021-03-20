@@ -1,0 +1,21 @@
+C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\bin\Debug\declaritve.exe.config
+C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\bin\Debug\declaritve.exe
+C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\bin\Debug\declaritve.pdb
+C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\obj\Debug\declaritve.csproj.CoreCompileInputs.cache
+C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\obj\Debug\declaritve.exe
+C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\obj\Debug\declaritve.pdb
+C:\Users\Elsayed.Mustafa\source\repos\declaritve\declaritve\obj\Debug\declaritve.csprojAssemblyReference.cache
+C:\Users\Mohamed-Hammad\Downloads\FP-main (2)\FP-main\Declarative Programming\declaritve\bin\Debug\declaritve.exe.config
+C:\Users\Mohamed-Hammad\Downloads\FP-main (2)\FP-main\Declarative Programming\declaritve\bin\Debug\declaritve.exe
+C:\Users\Mohamed-Hammad\Downloads\FP-main (2)\FP-main\Declarative Programming\declaritve\bin\Debug\declaritve.pdb
+C:\Users\Mohamed-Hammad\Downloads\FP-main (2)\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.csprojAssemblyReference.cache
+C:\Users\Mohamed-Hammad\Downloads\FP-main (2)\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed-Hammad\Downloads\FP-main (2)\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.exe
+C:\Users\Mohamed-Hammad\Downloads\FP-main (2)\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.pdb
+G:\Blazor\Session 6\FP-main\Declarative Programming\declaritve\bin\Debug\declaritve.exe.config
+G:\Blazor\Session 6\FP-main\Declarative Programming\declaritve\bin\Debug\declaritve.exe
+G:\Blazor\Session 6\FP-main\Declarative Programming\declaritve\bin\Debug\declaritve.pdb
+G:\Blazor\Session 6\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.csprojAssemblyReference.cache
+G:\Blazor\Session 6\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.csproj.CoreCompileInputs.cache
+G:\Blazor\Session 6\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.exe
+G:\Blazor\Session 6\FP-main\Declarative Programming\declaritve\obj\Debug\declaritve.pdb
